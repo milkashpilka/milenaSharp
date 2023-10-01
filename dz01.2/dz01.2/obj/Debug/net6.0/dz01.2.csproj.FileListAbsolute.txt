@@ -1,0 +1,14 @@
+C:\Users\Милена\source\repos\dz01.2\dz01.2\bin\Debug\net6.0\dz01.2.exe
+C:\Users\Милена\source\repos\dz01.2\dz01.2\bin\Debug\net6.0\dz01.2.deps.json
+C:\Users\Милена\source\repos\dz01.2\dz01.2\bin\Debug\net6.0\dz01.2.runtimeconfig.json
+C:\Users\Милена\source\repos\dz01.2\dz01.2\bin\Debug\net6.0\dz01.2.dll
+C:\Users\Милена\source\repos\dz01.2\dz01.2\bin\Debug\net6.0\dz01.2.pdb
+C:\Users\Милена\source\repos\dz01.2\dz01.2\obj\Debug\net6.0\dz01.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Милена\source\repos\dz01.2\dz01.2\obj\Debug\net6.0\dz01.2.AssemblyInfoInputs.cache
+C:\Users\Милена\source\repos\dz01.2\dz01.2\obj\Debug\net6.0\dz01.2.AssemblyInfo.cs
+C:\Users\Милена\source\repos\dz01.2\dz01.2\obj\Debug\net6.0\dz01.2.csproj.CoreCompileInputs.cache
+C:\Users\Милена\source\repos\dz01.2\dz01.2\obj\Debug\net6.0\dz01.2.dll
+C:\Users\Милена\source\repos\dz01.2\dz01.2\obj\Debug\net6.0\refint\dz01.2.dll
+C:\Users\Милена\source\repos\dz01.2\dz01.2\obj\Debug\net6.0\dz01.2.pdb
+C:\Users\Милена\source\repos\dz01.2\dz01.2\obj\Debug\net6.0\dz01.2.genruntimeconfig.cache
+C:\Users\Милена\source\repos\dz01.2\dz01.2\obj\Debug\net6.0\ref\dz01.2.dll
