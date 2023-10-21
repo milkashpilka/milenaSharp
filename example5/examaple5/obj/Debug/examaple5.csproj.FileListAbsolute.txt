@@ -1,0 +1,7 @@
+C:\Users\Милена\source\repos\examaple5\examaple5\obj\Debug\examaple5.csproj.AssemblyReference.cache
+C:\Users\Милена\source\repos\examaple5\examaple5\obj\Debug\examaple5.csproj.CoreCompileInputs.cache
+C:\Users\Милена\source\repos\examaple5\examaple5\bin\Debug\examaple5.exe.config
+C:\Users\Милена\source\repos\examaple5\examaple5\bin\Debug\examaple5.exe
+C:\Users\Милена\source\repos\examaple5\examaple5\bin\Debug\examaple5.pdb
+C:\Users\Милена\source\repos\examaple5\examaple5\obj\Debug\examaple5.exe
+C:\Users\Милена\source\repos\examaple5\examaple5\obj\Debug\examaple5.pdb

@@ -1,0 +1,7 @@
+C:\Users\Милена\source\repos\axample9\axample9\bin\Debug\axample9.exe.config
+C:\Users\Милена\source\repos\axample9\axample9\bin\Debug\axample9.exe
+C:\Users\Милена\source\repos\axample9\axample9\bin\Debug\axample9.pdb
+C:\Users\Милена\source\repos\axample9\axample9\obj\Debug\axample9.csproj.AssemblyReference.cache
+C:\Users\Милена\source\repos\axample9\axample9\obj\Debug\axample9.csproj.CoreCompileInputs.cache
+C:\Users\Милена\source\repos\axample9\axample9\obj\Debug\axample9.exe
+C:\Users\Милена\source\repos\axample9\axample9\obj\Debug\axample9.pdb
