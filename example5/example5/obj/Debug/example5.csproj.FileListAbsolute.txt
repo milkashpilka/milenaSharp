@@ -1,7 +1,0 @@
-C:\Users\Милена\source\repos\example5\example5\bin\Debug\example5.exe.config
-C:\Users\Милена\source\repos\example5\example5\bin\Debug\example5.exe
-C:\Users\Милена\source\repos\example5\example5\bin\Debug\example5.pdb
-C:\Users\Милена\source\repos\example5\example5\obj\Debug\example5.csproj.AssemblyReference.cache
-C:\Users\Милена\source\repos\example5\example5\obj\Debug\example5.csproj.CoreCompileInputs.cache
-C:\Users\Милена\source\repos\example5\example5\obj\Debug\example5.exe
-C:\Users\Милена\source\repos\example5\example5\obj\Debug\example5.pdb

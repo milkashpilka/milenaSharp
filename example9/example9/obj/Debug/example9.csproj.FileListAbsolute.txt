@@ -1,7 +1,0 @@
-C:\Users\Милена\source\repos\example9\example9\bin\Debug\example9.exe.config
-C:\Users\Милена\source\repos\example9\example9\bin\Debug\example9.exe
-C:\Users\Милена\source\repos\example9\example9\bin\Debug\example9.pdb
-C:\Users\Милена\source\repos\example9\example9\obj\Debug\example9.csproj.AssemblyReference.cache
-C:\Users\Милена\source\repos\example9\example9\obj\Debug\example9.csproj.CoreCompileInputs.cache
-C:\Users\Милена\source\repos\example9\example9\obj\Debug\example9.exe
-C:\Users\Милена\source\repos\example9\example9\obj\Debug\example9.pdb

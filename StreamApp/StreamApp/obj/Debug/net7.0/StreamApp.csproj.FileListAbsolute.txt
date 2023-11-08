@@ -1,0 +1,14 @@
+C:\Users\Милена\source\repos\StreamApp\StreamApp\bin\Debug\net7.0\StreamApp.exe
+C:\Users\Милена\source\repos\StreamApp\StreamApp\bin\Debug\net7.0\StreamApp.deps.json
+C:\Users\Милена\source\repos\StreamApp\StreamApp\bin\Debug\net7.0\StreamApp.runtimeconfig.json
+C:\Users\Милена\source\repos\StreamApp\StreamApp\bin\Debug\net7.0\StreamApp.dll
+C:\Users\Милена\source\repos\StreamApp\StreamApp\bin\Debug\net7.0\StreamApp.pdb
+C:\Users\Милена\source\repos\StreamApp\StreamApp\obj\Debug\net7.0\StreamApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Милена\source\repos\StreamApp\StreamApp\obj\Debug\net7.0\StreamApp.AssemblyInfoInputs.cache
+C:\Users\Милена\source\repos\StreamApp\StreamApp\obj\Debug\net7.0\StreamApp.AssemblyInfo.cs
+C:\Users\Милена\source\repos\StreamApp\StreamApp\obj\Debug\net7.0\StreamApp.csproj.CoreCompileInputs.cache
+C:\Users\Милена\source\repos\StreamApp\StreamApp\obj\Debug\net7.0\StreamApp.dll
+C:\Users\Милена\source\repos\StreamApp\StreamApp\obj\Debug\net7.0\refint\StreamApp.dll
+C:\Users\Милена\source\repos\StreamApp\StreamApp\obj\Debug\net7.0\StreamApp.pdb
+C:\Users\Милена\source\repos\StreamApp\StreamApp\obj\Debug\net7.0\StreamApp.genruntimeconfig.cache
+C:\Users\Милена\source\repos\StreamApp\StreamApp\obj\Debug\net7.0\ref\StreamApp.dll
